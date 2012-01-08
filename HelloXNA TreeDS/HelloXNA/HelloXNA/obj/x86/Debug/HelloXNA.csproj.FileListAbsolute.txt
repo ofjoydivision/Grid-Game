@@ -1,0 +1,8 @@
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\HelloXNA\HelloXNA\HelloXNA\bin\x86\Debug\HelloXNA.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\HelloXNA\HelloXNA\HelloXNA\bin\x86\Debug\HelloXNA.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\HelloXNA\HelloXNA\HelloXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\HelloXNA\HelloXNA\HelloXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\HelloXNA\HelloXNA\HelloXNA\obj\x86\Debug\HelloXNA.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\HelloXNA\HelloXNA\HelloXNA\obj\x86\Debug\HelloXNA.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\HelloXNA\HelloXNA\HelloXNA\bin\x86\Debug\Content\DottedLine3.xnb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\HelloXNA\HelloXNA\HelloXNA\bin\x86\Debug\Content\whitepixel.xnb
